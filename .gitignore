@@ -1,0 +1,10 @@
+#arquivo especifico
+arquivo.class
+progit.pdf
+Guias e Referencias.txt
+
+# mascaras
+# *.class
+
+# diretorios
+lib/
